@@ -7,12 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A389A0E61F8E5ACA00966A45 /* UserTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0E51F8E5ACA00966A45 /* UserTableViewCell.swift */; };
+		A389A0E71F8E5ACA00966A45 /* UserTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0E51F8E5ACA00966A45 /* UserTableViewCell.swift */; };
+		A389A0EE1F8E750900966A45 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0ED1F8E750900966A45 /* Reachability.swift */; };
+		A389A0EF1F8E750900966A45 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0ED1F8E750900966A45 /* Reachability.swift */; };
+		A389A0F11F8FBAE800966A45 /* UserListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0F01F8FBAE800966A45 /* UserListController.swift */; };
+		A389A0F21F8FBAE800966A45 /* UserListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0F01F8FBAE800966A45 /* UserListController.swift */; };
+		A389A0F71F8FFCF500966A45 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0F61F8FFCF500966A45 /* PhotoCell.swift */; };
+		A389A0F81F8FFCF500966A45 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0F61F8FFCF500966A45 /* PhotoCell.swift */; };
+		A389A0FA1F8FFD5D00966A45 /* PhotoHeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0F91F8FFD5D00966A45 /* PhotoHeaderCell.swift */; };
+		A389A0FB1F8FFD5D00966A45 /* PhotoHeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0F91F8FFD5D00966A45 /* PhotoHeaderCell.swift */; };
+		A389A0FD1F9000B400966A45 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0FC1F9000B400966A45 /* Album.swift */; };
+		A389A0FE1F9000B400966A45 /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0FC1F9000B400966A45 /* Album.swift */; };
+		A389A1001F90010200966A45 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0FF1F90010200966A45 /* Photo.swift */; };
+		A389A1011F90010200966A45 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A0FF1F90010200966A45 /* Photo.swift */; };
+		A389A1021F9014B900966A45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DECF891F8E51D20036B173 /* AppDelegate.swift */; };
+		A389A1041F90152600966A45 /* PhotoAlbumController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A1031F90152600966A45 /* PhotoAlbumController.swift */; };
+		A389A1051F90152600966A45 /* PhotoAlbumController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A1031F90152600966A45 /* PhotoAlbumController.swift */; };
+		A389A1071F9108DC00966A45 /* DetailPhotoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A1061F9108DB00966A45 /* DetailPhotoController.swift */; };
+		A389A1081F9108DD00966A45 /* DetailPhotoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A1061F9108DB00966A45 /* DetailPhotoController.swift */; };
+		A389A10A1F91E52E00966A45 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A1091F91E52C00966A45 /* Comment.swift */; };
+		A389A10B1F91E52E00966A45 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389A1091F91E52C00966A45 /* Comment.swift */; };
 		A3DECF8A1F8E51D20036B173 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DECF891F8E51D20036B173 /* AppDelegate.swift */; };
-		A3DECF8C1F8E51D20036B173 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DECF8B1F8E51D20036B173 /* ViewController.swift */; };
 		A3DECF8F1F8E51D20036B173 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3DECF8D1F8E51D20036B173 /* Main.storyboard */; };
 		A3DECF911F8E51D20036B173 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3DECF901F8E51D20036B173 /* Assets.xcassets */; };
 		A3DECF941F8E51D20036B173 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3DECF921F8E51D20036B173 /* LaunchScreen.storyboard */; };
 		A3DECF9F1F8E51D30036B173 /* V_Labs_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DECF9E1F8E51D30036B173 /* V_Labs_TestTests.swift */; };
+		A3DECFAB1F8E55420036B173 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DECFAA1F8E55420036B173 /* User.swift */; };
+		A3DECFAC1F8E55420036B173 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DECFAA1F8E55420036B173 /* User.swift */; };
+		F1E525F08AD63582187A37BD /* Pods_V_Labs_Test.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 378442575EA856D5BE1C6180 /* Pods_V_Labs_Test.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,9 +49,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		378442575EA856D5BE1C6180 /* Pods_V_Labs_Test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_V_Labs_Test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		53B144EC6C7A5FDB4A95AF81 /* Pods-V-Labs-Test.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-V-Labs-Test.release.xcconfig"; path = "Pods/Target Support Files/Pods-V-Labs-Test/Pods-V-Labs-Test.release.xcconfig"; sourceTree = "<group>"; };
+		A389A0E51F8E5ACA00966A45 /* UserTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserTableViewCell.swift; sourceTree = "<group>"; };
+		A389A0ED1F8E750900966A45 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		A389A0F01F8FBAE800966A45 /* UserListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListController.swift; sourceTree = "<group>"; };
+		A389A0F61F8FFCF500966A45 /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+		A389A0F91F8FFD5D00966A45 /* PhotoHeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoHeaderCell.swift; sourceTree = "<group>"; };
+		A389A0FC1F9000B400966A45 /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
+		A389A0FF1F90010200966A45 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		A389A1031F90152600966A45 /* PhotoAlbumController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoAlbumController.swift; sourceTree = "<group>"; };
+		A389A1061F9108DB00966A45 /* DetailPhotoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPhotoController.swift; sourceTree = "<group>"; };
+		A389A1091F91E52C00966A45 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
 		A3DECF861F8E51D20036B173 /* V-Labs-Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "V-Labs-Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3DECF891F8E51D20036B173 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A3DECF8B1F8E51D20036B173 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A3DECF8E1F8E51D20036B173 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A3DECF901F8E51D20036B173 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3DECF931F8E51D20036B173 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -36,6 +70,8 @@
 		A3DECF9A1F8E51D30036B173 /* V-Labs-TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "V-Labs-TestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3DECF9E1F8E51D30036B173 /* V_Labs_TestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = V_Labs_TestTests.swift; sourceTree = "<group>"; };
 		A3DECFA01F8E51D30036B173 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3DECFAA1F8E55420036B173 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		E69412416D6E81896166113D /* Pods-V-Labs-Test.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-V-Labs-Test.debug.xcconfig"; path = "Pods/Target Support Files/Pods-V-Labs-Test/Pods-V-Labs-Test.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1E525F08AD63582187A37BD /* Pods_V_Labs_Test.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,12 +93,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		41ADE4D61F198B06259013C9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				378442575EA856D5BE1C6180 /* Pods_V_Labs_Test.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A389A0E41F8E5A8E00966A45 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				A389A0E51F8E5ACA00966A45 /* UserTableViewCell.swift */,
+				A389A0F61F8FFCF500966A45 /* PhotoCell.swift */,
+				A389A0F91F8FFD5D00966A45 /* PhotoHeaderCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		A389A0EC1F8E74DE00966A45 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				A389A0ED1F8E750900966A45 /* Reachability.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
 		A3DECF7D1F8E51D20036B173 = {
 			isa = PBXGroup;
 			children = (
 				A3DECF881F8E51D20036B173 /* V-Labs-Test */,
 				A3DECF9D1F8E51D30036B173 /* V-Labs-TestTests */,
 				A3DECF871F8E51D20036B173 /* Products */,
+				C46527857DB21EC03188633C /* Pods */,
+				41ADE4D61F198B06259013C9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,8 +142,13 @@
 		A3DECF881F8E51D20036B173 /* V-Labs-Test */ = {
 			isa = PBXGroup;
 			children = (
+				A389A0EC1F8E74DE00966A45 /* Network */,
+				A389A0E41F8E5A8E00966A45 /* Cells */,
+				A3DECFA91F8E550D0036B173 /* Models */,
 				A3DECF891F8E51D20036B173 /* AppDelegate.swift */,
-				A3DECF8B1F8E51D20036B173 /* ViewController.swift */,
+				A389A1061F9108DB00966A45 /* DetailPhotoController.swift */,
+				A389A1031F90152600966A45 /* PhotoAlbumController.swift */,
+				A389A0F01F8FBAE800966A45 /* UserListController.swift */,
 				A3DECF8D1F8E51D20036B173 /* Main.storyboard */,
 				A3DECF901F8E51D20036B173 /* Assets.xcassets */,
 				A3DECF921F8E51D20036B173 /* LaunchScreen.storyboard */,
@@ -96,6 +166,26 @@
 			path = "V-Labs-TestTests";
 			sourceTree = "<group>";
 		};
+		A3DECFA91F8E550D0036B173 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				A3DECFAA1F8E55420036B173 /* User.swift */,
+				A389A0FC1F9000B400966A45 /* Album.swift */,
+				A389A0FF1F90010200966A45 /* Photo.swift */,
+				A389A1091F91E52C00966A45 /* Comment.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C46527857DB21EC03188633C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E69412416D6E81896166113D /* Pods-V-Labs-Test.debug.xcconfig */,
+				53B144EC6C7A5FDB4A95AF81 /* Pods-V-Labs-Test.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -103,9 +193,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A3DECFA31F8E51D30036B173 /* Build configuration list for PBXNativeTarget "V-Labs-Test" */;
 			buildPhases = (
+				8C31AE13F192EE637EAFAB1C /* [CP] Check Pods Manifest.lock */,
 				A3DECF821F8E51D20036B173 /* Sources */,
 				A3DECF831F8E51D20036B173 /* Frameworks */,
 				A3DECF841F8E51D20036B173 /* Resources */,
+				CBAF72953B0632A7EBE6DBBD /* [CP] Embed Pods Frameworks */,
+				6A822C59D335EB3074DE88FF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -194,13 +287,71 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		6A822C59D335EB3074DE88FF /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-V-Labs-Test/Pods-V-Labs-Test-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8C31AE13F192EE637EAFAB1C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CBAF72953B0632A7EBE6DBBD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-V-Labs-Test/Pods-V-Labs-Test-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		A3DECF821F8E51D20036B173 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3DECF8C1F8E51D20036B173 /* ViewController.swift in Sources */,
+				A389A0F71F8FFCF500966A45 /* PhotoCell.swift in Sources */,
+				A389A0E61F8E5ACA00966A45 /* UserTableViewCell.swift in Sources */,
+				A389A0FA1F8FFD5D00966A45 /* PhotoHeaderCell.swift in Sources */,
+				A389A1001F90010200966A45 /* Photo.swift in Sources */,
+				A389A0EE1F8E750900966A45 /* Reachability.swift in Sources */,
+				A389A0FD1F9000B400966A45 /* Album.swift in Sources */,
 				A3DECF8A1F8E51D20036B173 /* AppDelegate.swift in Sources */,
+				A389A10A1F91E52E00966A45 /* Comment.swift in Sources */,
+				A389A1071F9108DC00966A45 /* DetailPhotoController.swift in Sources */,
+				A389A0F11F8FBAE800966A45 /* UserListController.swift in Sources */,
+				A389A1041F90152600966A45 /* PhotoAlbumController.swift in Sources */,
+				A3DECFAB1F8E55420036B173 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -208,7 +359,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A389A1081F9108DD00966A45 /* DetailPhotoController.swift in Sources */,
+				A389A1021F9014B900966A45 /* AppDelegate.swift in Sources */,
+				A389A0F81F8FFCF500966A45 /* PhotoCell.swift in Sources */,
+				A3DECFAC1F8E55420036B173 /* User.swift in Sources */,
+				A389A0FB1F8FFD5D00966A45 /* PhotoHeaderCell.swift in Sources */,
+				A389A1011F90010200966A45 /* Photo.swift in Sources */,
+				A389A0E71F8E5ACA00966A45 /* UserTableViewCell.swift in Sources */,
+				A389A0FE1F9000B400966A45 /* Album.swift in Sources */,
+				A389A10B1F91E52E00966A45 /* Comment.swift in Sources */,
+				A389A0EF1F8E750900966A45 /* Reachability.swift in Sources */,
+				A389A0F21F8FBAE800966A45 /* UserListController.swift in Sources */,
 				A3DECF9F1F8E51D30036B173 /* V_Labs_TestTests.swift in Sources */,
+				A389A1051F90152600966A45 /* PhotoAlbumController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,6 +514,7 @@
 		};
 		A3DECFA41F8E51D30036B173 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E69412416D6E81896166113D /* Pods-V-Labs-Test.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -366,6 +530,7 @@
 		};
 		A3DECFA51F8E51D30036B173 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 53B144EC6C7A5FDB4A95AF81 /* Pods-V-Labs-Test.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
