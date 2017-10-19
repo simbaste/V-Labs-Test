@@ -27,6 +27,13 @@ end
   target 'V-Labs-TestTests' do
     inherit! :search_paths
     # Pods for testing
+    pod 'RxSwift', '~> 3.0.0.beta.1'
+    pod 'RxCocoa', '~> 3.0.0.beta.1'
+    pod 'Moya-ObjectMapper/RxSwift'
+    pod 'Moya-ObjectMapper'
+    pod 'ObjectMapper', '~> 2.2'
+    pod 'RxDataSources', '~> 1.0'
+    pod 'Kingfisher', '~> 4.0'
   end
 
 end
